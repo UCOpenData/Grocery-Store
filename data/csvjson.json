@@ -1,0 +1,465 @@
+[
+
+  {
+    "Layer": "Community area",
+    "Name": "Rogers Park",
+    "GEOID": 1,
+    "VRPTP_2017-2021": 9.886202
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Norwood Park",
+    "GEOID": 10,
+    "VRPTP_2017-2021": 9.6723044
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Jefferson Park",
+    "GEOID": 11,
+    "VRPTP_2017-2021": 9.5172414
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Forest Glen",
+    "GEOID": 12,
+    "VRPTP_2017-2021": 7.2388831
+  },
+  {
+    "Layer": "Community area",
+    "Name": "North Park",
+    "GEOID": 13,
+    "VRPTP_2017-2021": 8.3255379
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Albany Park",
+    "GEOID": 14,
+    "VRPTP_2017-2021": 10.440678
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Portage Park",
+    "GEOID": 15,
+    "VRPTP_2017-2021": 10.010793
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Irving Park",
+    "GEOID": 16,
+    "VRPTP_2017-2021": 11.002213
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Dunning",
+    "GEOID": 17,
+    "VRPTP_2017-2021": 10.505837
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Montclare",
+    "GEOID": 18,
+    "VRPTP_2017-2021": 9.3421053
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Belmont Cragin",
+    "GEOID": 19,
+    "VRPTP_2017-2021": 10.516129
+  },
+  {
+    "Layer": "Community area",
+    "Name": "West Ridge",
+    "GEOID": 2,
+    "VRPTP_2017-2021": 9.0529753
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Hermosa",
+    "GEOID": 20,
+    "VRPTP_2017-2021": 10.526316
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Avondale",
+    "GEOID": 21,
+    "VRPTP_2017-2021": 10.270031
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Logan Square",
+    "GEOID": 22,
+    "VRPTP_2017-2021": 9.0051121
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Humboldt Park",
+    "GEOID": 23,
+    "VRPTP_2017-2021": 12.397133
+  },
+  {
+    "Layer": "Community area",
+    "Name": "West Town",
+    "GEOID": 24,
+    "VRPTP_2017-2021": 8.0923208
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Austin",
+    "GEOID": 25,
+    "VRPTP_2017-2021": 14.363367
+  },
+  {
+    "Layer": "Community area",
+    "Name": "West Garfield Park",
+    "GEOID": 26,
+    "VRPTP_2017-2021": 15.371477
+  },
+  {
+    "Layer": "Community area",
+    "Name": "East Garfield Park",
+    "GEOID": 27,
+    "VRPTP_2017-2021": 16.606758
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Near West Side",
+    "GEOID": 28,
+    "VRPTP_2017-2021": 9.4384707
+  },
+  {
+    "Layer": "Community area",
+    "Name": "North Lawndale",
+    "GEOID": 29,
+    "VRPTP_2017-2021": 14.5326
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Uptown",
+    "GEOID": 3,
+    "VRPTP_2017-2021": 9.582744
+  },
+  {
+    "Layer": "Community area",
+    "Name": "South Lawndale",
+    "GEOID": 30,
+    "VRPTP_2017-2021": 10.941542
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Lower West Side",
+    "GEOID": 31,
+    "VRPTP_2017-2021": 10.594315
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Loop",
+    "GEOID": 32,
+    "VRPTP_2017-2021": 6.9361005
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Near South Side",
+    "GEOID": 33,
+    "VRPTP_2017-2021": 7.7694236
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Armour Square",
+    "GEOID": 34,
+    "VRPTP_2017-2021": 6.8181818
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Douglas",
+    "GEOID": 35,
+    "VRPTP_2017-2021": 12.749004
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Oakland",
+    "GEOID": 36,
+    "VRPTP_2017-2021": 13.242009
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Fuller Park",
+    "GEOID": 37,
+    "VRPTP_2017-2021": 9.2857143
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Grand Boulevard",
+    "GEOID": 38,
+    "VRPTP_2017-2021": 12.15847
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Kenwood",
+    "GEOID": 39,
+    "VRPTP_2017-2021": 10.53787
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Lincoln Square",
+    "GEOID": 4,
+    "VRPTP_2017-2021": 8.3302617
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Washington Park",
+    "GEOID": 40,
+    "VRPTP_2017-2021": 15.427928
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Hyde Park",
+    "GEOID": 41,
+    "VRPTP_2017-2021": 9.772296
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Woodlawn",
+    "GEOID": 42,
+    "VRPTP_2017-2021": 12.9683
+  },
+  {
+    "Layer": "Community area",
+    "Name": "South Shore",
+    "GEOID": 43,
+    "VRPTP_2017-2021": 14.055081
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Chatham",
+    "GEOID": 44,
+    "VRPTP_2017-2021": 14.149822
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Avalon Park",
+    "GEOID": 45,
+    "VRPTP_2017-2021": 12.043011
+  },
+  {
+    "Layer": "Community area",
+    "Name": "South Chicago",
+    "GEOID": 46,
+    "VRPTP_2017-2021": 13.926816
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Burnside",
+    "GEOID": 47,
+    "VRPTP_2017-2021": 19.014085
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Calumet Heights",
+    "GEOID": 48,
+    "VRPTP_2017-2021": 14.05694
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Roseland",
+    "GEOID": 49,
+    "VRPTP_2017-2021": 14.805306
+  },
+  {
+    "Layer": "Community area",
+    "Name": "North Center",
+    "GEOID": 5,
+    "VRPTP_2017-2021": 8.135833
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Pullman",
+    "GEOID": 50,
+    "VRPTP_2017-2021": 16.304348
+  },
+  {
+    "Layer": "Community area",
+    "Name": "South Deering",
+    "GEOID": 51,
+    "VRPTP_2017-2021": 14.610778
+  },
+  {
+    "Layer": "Community area",
+    "Name": "East Side",
+    "GEOID": 52,
+    "VRPTP_2017-2021": 7.4593796
+  },
+  {
+    "Layer": "Community area",
+    "Name": "West Pullman",
+    "GEOID": 53,
+    "VRPTP_2017-2021": 14.505625
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Riverdale",
+    "GEOID": 54,
+    "VRPTP_2017-2021": 10.791367
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Hegewisch",
+    "GEOID": 55,
+    "VRPTP_2017-2021": 10.647182
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Garfield Ridge",
+    "GEOID": 56,
+    "VRPTP_2017-2021": 10.650224
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Archer Heights",
+    "GEOID": 57,
+    "VRPTP_2017-2021": 8.6474501
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Brighton Park",
+    "GEOID": 58,
+    "VRPTP_2017-2021": 9.9040307
+  },
+  {
+    "Layer": "Community area",
+    "Name": "McKinley Park",
+    "GEOID": 59,
+    "VRPTP_2017-2021": 9.4458438
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Lake View",
+    "GEOID": 6,
+    "VRPTP_2017-2021": 8.4383089
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Bridgeport",
+    "GEOID": 60,
+    "VRPTP_2017-2021": 9.0422368
+  },
+  {
+    "Layer": "Community area",
+    "Name": "New City",
+    "GEOID": 61,
+    "VRPTP_2017-2021": 12.163096
+  },
+  {
+    "Layer": "Community area",
+    "Name": "West Elsdon",
+    "GEOID": 62,
+    "VRPTP_2017-2021": 11.069418
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Gage Park",
+    "GEOID": 63,
+    "VRPTP_2017-2021": 9.569378
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Clearing",
+    "GEOID": 64,
+    "VRPTP_2017-2021": 11.08631
+  },
+  {
+    "Layer": "Community area",
+    "Name": "West Lawn",
+    "GEOID": 65,
+    "VRPTP_2017-2021": 9.6758818
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Chicago Lawn",
+    "GEOID": 66,
+    "VRPTP_2017-2021": 12.378193
+  },
+  {
+    "Layer": "Community area",
+    "Name": "West Englewood",
+    "GEOID": 67,
+    "VRPTP_2017-2021": 16.346154
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Englewood",
+    "GEOID": 68,
+    "VRPTP_2017-2021": 16.277746
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Greater Grand Crossing",
+    "GEOID": 69,
+    "VRPTP_2017-2021": 14.392523
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Lincoln Park",
+    "GEOID": 7,
+    "VRPTP_2017-2021": 7.8556263
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Ashburn",
+    "GEOID": 70,
+    "VRPTP_2017-2021": 11.629996
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Auburn Gresham",
+    "GEOID": 71,
+    "VRPTP_2017-2021": 14.599924
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Beverly",
+    "GEOID": 72,
+    "VRPTP_2017-2021": 10.037879
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Washington Heights",
+    "GEOID": 73,
+    "VRPTP_2017-2021": 14.02439
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Mount Greenwood",
+    "GEOID": 74,
+    "VRPTP_2017-2021": 11.235955
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Morgan Park",
+    "GEOID": 75,
+    "VRPTP_2017-2021": 12.691269
+  },
+  {
+    "Layer": "Community area",
+    "Name": "O'Hare",
+    "GEOID": 76,
+    "VRPTP_2017-2021": 6.4485082
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Edgewater",
+    "GEOID": 77,
+    "VRPTP_2017-2021": 8.624069
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Near North Side",
+    "GEOID": 8,
+    "VRPTP_2017-2021": 8.7605042
+  },
+  {
+    "Layer": "Community area",
+    "Name": "Edison Park",
+    "GEOID": 9,
+    "VRPTP_2017-2021": 9.3457944
+  }
+]
